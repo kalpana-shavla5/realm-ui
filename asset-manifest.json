@@ -1,12 +1,11 @@
 {
   "files": {
-    "main.js": "/realm-ui/static/js/main.6c26b036.js",
+    "main.js": "/realm-ui/static/js/main.417cc1e6.js",
     "static/media/about.png": "/realm-ui/static/media/about.579d780645f298cdf41b.png",
-    "static/media/hero.png": "/realm-ui/static/media/hero.4d111bed5c3e173034be.png",
     "index.html": "/realm-ui/index.html",
-    "main.6c26b036.js.map": "/realm-ui/static/js/main.6c26b036.js.map"
+    "main.417cc1e6.js.map": "/realm-ui/static/js/main.417cc1e6.js.map"
   },
   "entrypoints": [
-    "static/js/main.6c26b036.js"
+    "static/js/main.417cc1e6.js"
   ]
 }
