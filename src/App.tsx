@@ -1,10 +1,8 @@
-import React from "react";
-import About from "./components/About";
-
 function App() {
   return (
-    <div className="min-h-screen">
-      <About />
+    <div style={{ padding: "40px", fontSize: "24px" }}>
+      <h1>Realm UI</h1>
+      <p>App is rendering correctly ✅</p>
     </div>
   );
 }
