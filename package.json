@@ -2,7 +2,6 @@
   "name": "realm-ui",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kalpana-shavla5.github.io/realm-ui",
   "dependencies": {
     "@testing-library/jest-dom": "^6.9.1",
     "@testing-library/react": "^16.3.1",
