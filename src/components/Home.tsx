@@ -1,27 +1,28 @@
-import React from 'react';
-import Header from './Header';
-import Hero from './Hero';
-import Features from './Features';
-import About from './About';
-import CallToAction from './CallToAction';
-import Insights from './Insights';
-import Footer from './Footer';
+import Navbar from "./Navbar";
+import Header from "./Header";
+import Hero from "./Hero";
+import Features from "./Features";
+import About from "./About";
+import Insights from "./Insights";
+import CallToAction from "./CallToAction";
+import Contact from "./Contact";
+import Footer from "./Footer";
 
-function Home() {
+export default function Home() {
   return (
-    <div>
+    <>
+      <Navbar />
       <Header />
       <Hero />
       <Features />
       <About />
-      <CallToAction />
       <Insights />
+      <CallToAction />
+      <Contact />
       <Footer />
-    </div>
+    </>
   );
 }
-
-export default Home;
 
 
 
